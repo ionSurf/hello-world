@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial
 It now includes steps from Github
 
 Yet another change directly in the main branch
+
+One additional line
